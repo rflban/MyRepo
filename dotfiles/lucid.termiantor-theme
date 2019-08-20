@@ -1,0 +1,7 @@
+  [[LucidCustom]]
+    background_color = "#0f0c14"
+    cursor_color = "#e4e0ed"
+    foreground_color = "#e4e0ed"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#36323d:#db0088:#3fc997:#fde9a2:#83a8d1:#7470ce:#99feff:#e4e0ed:#e4e0ed:#7a004c:#26795b:#ad9f6f:#6a88a9:#4e4b8b:#6ab1b1:#36323d"
