@@ -1,0 +1,48 @@
+font:
+    normal:
+        family: SF Mono
+        style: Regular
+
+    bold:
+        family: SF Mono
+        style: Bold
+
+    italic:
+        family: SF Mono
+        style: Italic
+
+    bold_italic:
+        family: SF Mono
+        style: Bold Italic
+
+    size: 10.0
+
+colors:
+    primary:
+        background: '0xEFEFF1'
+        foreground: '0x404042'
+
+    #cursor:
+        #text:   '0xff0000'
+        #cursor: '0x00ff00'
+
+    normal:
+        black:   '0x404042'
+        red:     '0xBD6489'
+        green:   '0x8C977E'
+        yellow:  '0xC1A975'
+        blue:    '0x495996'
+        magenta: '0x804791'
+        cyan:    '0x75898E'
+        white:   '0xADADAE'
+
+    bright:
+        black:   '0x404042'
+        red:     '0xBD6489'
+        green:   '0x8C977E'
+        yellow:  '0xC1A975'
+        blue:    '0x495996'
+        magenta: '0x804791'
+        cyan:    '0x75898E'
+        white:   '0xADADAE'
+
